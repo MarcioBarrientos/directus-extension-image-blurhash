@@ -1,9 +1,9 @@
 {
-  "name": "directus-extension-image-blurdata",
-  "description": "Adds a blur_data field to the directus_files table with a base64 encoded string of the image data. This is useful for lazy loading images.",
+  "name": "directus-extension-image-blurhash",
+  "description": "Generates a blur_hash data when uploads an image file",
   "version": "1.0.0",
   "author": {
-    "email": "marcio.barrientos@gmail.com",
+    "email": "marciobarrientos+gh@gmail.com",
     "name": "Marcio Barrientos"
   },
   "keywords": [
